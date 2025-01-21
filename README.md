@@ -19,6 +19,8 @@ musicrec and similarities file are used for app
 envusion file contain the report on the project 
 
 localhost link : http://localhost:8501/
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.7:8501
 where my modle is performing
 
 
