@@ -93,3 +93,7 @@ Classification Report:
    micro avg       0.97      0.97      0.97       134
    macro avg       0.84      0.84      0.82       134
 weighted avg       0.97      0.97      0.97       134
+
+
+final work : 
+![Screenshot 2025-01-21 065437](https://github.com/user-attachments/assets/4e8060de-1262-42c8-8678-0afc38dc46b7)
