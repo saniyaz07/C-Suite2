@@ -13,10 +13,10 @@ Model Used : XGBoost
 Accuracy : 93.75%
 
 The files :
-finalmusic contanin the cleaned dataset 
-xgboost_model.pkl has the trained model 
-musicrec and similarities file are used for app
-envusion file contain the report on the project 
+finalmusic contanin the cleaned dataset ,
+xgboost_model.pkl has the trained model ,
+musicrec and similarities file are used for app,
+envision file contain the report on the project 
 
 localhost link : http://localhost:8501/
   Local URL: http://localhost:8501
